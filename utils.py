@@ -55,3 +55,22 @@ def QA_Slice(df,first,second,third):
     print("This is",(total_rows/(df.shape[0]))*100,"% of the abundance dataset.")
     print("The other",100-(total_rows/(df.shape[0]))*100,"% of abundance was not included in this slice.")
     return QATC
+
+
+def season_pop_classify(x):
+    '''
+    Designating a category for each row based on season_population value 
+    
+    Args:
+        x: a float; the season_population value
+        
+    Returns:
+        a int; either 0, 1, or 2 based on the range the season_population falls in
+    '''
+    
+    if ((x > -0.001) & (x <= 4.0)):
+        return 0
+    elif ((x > 4.0) & (x <= 24.667)):
+        return 1
+    else:
+        return 2
