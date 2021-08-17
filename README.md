@@ -7,7 +7,7 @@ Invasive species include any animal, plant, or disease that negatively
 impacts the environment because of its high population growth. Australia 
 is overrun by wild rabbits. Predators introduced to new areas, such as 
 the Burmese python in Florida, lead to sharp declines in prey populations 
-and are thereby viewed as more harmful invasive species. Although rabbits 
+and are thereby viewed as more harmful. Although rabbits 
 are classified as pests, their impact has been devastating. They lead to 
 the opposite problem of inflated predator populations. Furthermore, rabbit 
 homes erode the soil leading to desertification while crop destruction has 
