@@ -22,10 +22,7 @@ more effectively.
 
 ### Implementation  
 Using machine learning to predict the future using past data is called **time series forecasting**. 
-The data used includes two datasets accompanying the research paper *The Australian National Rabbit Database: 50 years of population monitoring of an invasive species*. The first dataset is called 
-**occurence**: each row is a reported sighting of a rabbit(s) from someone in Australia. The second 
-dataset is called **abundance**: each row is a headcount of rabbits spotted by researchers from going 
-through a path at night. We used this second dataset to train our models.
+The data used in our project includes two datasets accompanying the research paper *The Australian National Rabbit Database: 50 years of population monitoring of an invasive species*. The first dataset is called **occurence**: each row is a reported sighting of a rabbit(s) from someone in Australia. The second dataset is called **abundance**: each row is a headcount of rabbits spotted by researchers traversing a path at night. We used this second dataset to train our models.
 
 One common problem in forecasting is getting a high accuracy model because the features used in training 
 didn't have continous time intervals... one of the inputs already had information about the 
