@@ -17,6 +17,9 @@ Being able to predict areas in Australia that see the highest rabbit
 population growth will allow the Australian government to combat the problem 
 more effectively.  
 
+![Ominous rabbits](https://user-images.githubusercontent.com/47184848/129650949-aa2c4d2f-c4df-4a93-9f6e-90077dea90bb.jpg)
+
+
 ### Implementation  
 Using machine learning to predict the future using past data is called **time series forecasting**. 
 The data used included two datasets accompanying the research paper *The Australian National Rabbit Database: 50 years of population monitoring of an invasive species*. The first dataset is called 
